@@ -5,7 +5,7 @@
 1. Клонируйте репозиторий:
 
 ```
-git clone 
+git clone https://github.com/Mikhail-Ushakov/tree_menu.git
 ```
 
 2. Установите виртуальное окружение:
